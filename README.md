@@ -17,7 +17,7 @@ You can install the development version of rKenyaCensus from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("Shelmith-Kariuki/rKenyaCensus")
+devtools::install_github('Shelmith-Kariuki/rKenyaCensus')
 ```
 
 And the released version from [CRAN](https://CRAN.R-project.org) with:
